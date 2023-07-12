@@ -60,10 +60,23 @@ h3 {
 
 h4 {
   font-family: "Open Sans", sans-serif;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 600;
   line-height: 34px;
   letter-spacing: 0em;
+}
+h5{
+font-family:"Open Sans", sans-serif;
+font-size: 24px;
+font-weight: 400;
+line-height: 42px;
+
+}
+h6{
+font-family: "Open Sans", sans-serif;
+font-size: 22px;
+font-weight: 400;
+line-height: 35px;
 }
 
 p {
@@ -71,4 +84,19 @@ p {
   font-weight: 300;
   font-size: 20px;
   line-height: 28px;
+}
+button{
+top: 157px;
+margin-left: 963px;
+padding: 20px 34px 20px 34px;
+gap: 10px
+}
+
+
+a.cta_button{
+padding: 20px 34px 20px 34px;
+gap: 10px;
+background: #F36B39;
+
+
 }
